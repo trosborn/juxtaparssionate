@@ -1,0 +1,27 @@
+<title>Job: Software Engineer - WhatRunsWhere</title><div class="listing-container">
+    <div>We are WhatRunsWhere – the leader in online advertising intelligence.  We collect and create insights from a myriad of data to help businesses buy ads more effectively.  We operate as a small yet passionate team that feels like a family.  We love new ideas and encourage and reward creative, forward thinking.</div>
+<div class="paragraph_break"><br></div>
+<div>In this position, you will be primarily responsible for the development of backend services to support our advertising intelligence product.  You will work with the DevOps team to deploy site-specific scrapers, general web crawlers, API partner integrations, and probably spend a fair amount of time hacking away at WebKit.  Our current stack includes: Cassandra, ElasticSearch, MySQL &amp; PostgreSQL, and Apache Spark, amongst others.  For a company of our size, we’ve got a lot of data, a lot of servers, and a lot of challenging problems to tackle and we’re looking for energetic and motivated people to join our remote team.</div>
+<div class="paragraph_break"><br></div>
+<div>We’re looking for developers with solid Python experience (understanding of Python packaging, internals, best practices) and any additional experience with JVM languages or C++ would be very beneficial.  The ideal candidate will have worked on large, well-tested Python projects, will have strong opinions about code quality and style, with an insatiable appetite for learning new languages and tools.</div>
+<div class="paragraph_break"><br></div>
+<div>Requirements</div>
+<ul>
+<li>Significant experience in Python or similar language</li>
+<li>Demonstrable experience using web frameworks to build modern web applications (we use Django and Flask)</li>
+<li>High comfort level working with SQL for app development and reporting purposes</li>
+<li>Thorough understanding of Linux, networking, and HTTP fundamentals</li>
+<li>Substantial preference will be given to candidates who can provide samples of previous work</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>Nice to have but not necessary:</div>
+<ul>
+<li>Experience or interest in Scala</li>
+<li>Experience with Cascading or Apache Spark</li>
+<li>Experience modifying large C++ projects (specifically WebKit)</li>
+<li>Prior remote collaboration experience would be helpful (pairing, code reviews)</li>
+<li>Experience with non-relational data stores (We use Cassandra, Hadoop, and ElasticSearch)</li>
+</ul>
+
+    
+  </div>

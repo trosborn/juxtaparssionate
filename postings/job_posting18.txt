@@ -1,0 +1,27 @@
+<title>Job: Lead Support Engineer - BioIQ</title><div class="listing-container">
+    <div>BioIQ is seeking an experienced Rails engineer with management experience to lead our Technical Support Team. In this role you will work closely with our Customer Service and Account Management teams to resolve customer issues, while creating new features in our internal applications to better serve and empower those organizations.</div>
+<div class="paragraph_break"><br></div>
+<div>We offer competitive salary based on experience and a great work environment in downtown Santa Barbara (for those in the area). If you are a smart, versatile software engineer with a desire to work with the following technologies, we'd love to hear from you.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Required Experience</strong></div>
+<div><strong><br></strong></div>
+<ul>
+<li>3+ years working with Rails</li>
+<li>Git</li>
+<li>MySQL</li>
+<li>Javascript/AJAX/jQuery</li>
+<li>HTML/CSS</li>
+<li>Basic UNIX understanding</li>
+<li>Passion for problem solving and helping others</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Desired Experience</strong></div>
+<div><strong><br></strong></div>
+<ul>
+<li>BDD and/or TDD</li>
+<li>Rspec / Cucumber</li>
+<li>Rails 3+</li>
+</ul>
+
+    
+  </div>

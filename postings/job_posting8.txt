@@ -1,0 +1,24 @@
+<title>Job: Contract to Hire: Lead End-to-End Developer - Must Win</title><div class="listing-container">
+    <div><strong>COMPANY DESCRIPTION:</strong></div>
+<div class="paragraph_break"><br></div>
+<div>Must Win is a small team of goofballs who also happen to be all star software designers and developers. We're more than a dev shop. We work with our clients on a strategic level to help them realize their product vision. We've launched new businesses, helped companies pivot into new markets, accelerated product roadmaps, and consulted on technical problems that were impossible for in-house teams.</div>
+<div class="paragraph_break"><br></div>
+<div>We were founded by seasoned Silicon Valley startup engineers who have created the kind of environment in which they had always wanted to work. We've been around the block and pride ourselves on being the baddest, fastest, most fun, and highest quality dev shop in the business.</div>
+<div class="paragraph_break"><br></div>
+<div>We run a collaborative remote office with incredible work flexibility and amazing perks including 20 vacation days that vest on day one, two fully paid company trips to fun places like Costa Rica, a fully paid trip to the domestic conference of your choice (we'll also pay for any you speak at), and more!</div>
+<div class="paragraph_break"><br></div>
+<div><strong><strong>THE ROLE: LEAD DEVELOPER</strong></strong></div>
+<div class="paragraph_break"><br></div>
+<div>We're looking for an End-to-End engineer to lead teams of All Stars on client projects for some of the hottest brands in tech. If you're a star among stars and would enjoy the challenge of building new things every day then we want to talk to you!</div>
+<div class="paragraph_break"><br></div>
+<div><strong><strong>WE'RE LOOKING FOR SOMEONE WITH:</strong></strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Experience providing strategic engineering solutions for difficult business objectives</li>
+<li>Expertise in back end development in modern environments (like Ruby on Rails, GoLang, and/or Node.js), and common database needs (like Postgres)</li>
+<li>Proficiency with JavaScript frameworks like Angular (our favorite these days), Backbone, etc.</li>
+<li>Strong communication and project management skills</li>
+</ul>
+
+    
+  </div>

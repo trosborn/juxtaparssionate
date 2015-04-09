@@ -1,0 +1,38 @@
+<title>Job: Jnr/Mid Node.js full-stack / MEAN developer - Dialogue Group</title><div class="listing-container">
+    <div>We need someone awesome to work part-to-full time (at least 3 days – preference is full time...) on our projects, web apps built in node.js.</div>
+<div class="paragraph_break"><br></div>
+<div>The projects are mostly at an early stage (prototype, or pre-prototype!), with one larger app running in production (Schedugram).</div>
+<div class="paragraph_break"><br></div>
+<div>The tech stack we generally* use is:<br>
+</div>
+<div>- node.js / express<br>
+</div>
+<div>- mongoDB/mongoose<br>
+</div>
+<div>- mandrill (email)<br>
+</div>
+<div>- async/Q (promises)<br>
+</div>
+<div>- Stripe (payments)</div>
+<div>- S3 (obj storage)</div>
+<div class="paragraph_break"><br></div>
+<div>And postgres for some projects, along with a bit of RabbitMQ/AMQP. Everything is on AWS, so sometimes we might use SNS or other AWS services to make life easier, or even write command-line tools. We're ultimately 100% startup, so you will have your hand in DevOps, deployment and testing – not just code-and-deliver.</div>
+<div class="paragraph_break"><br></div>
+<div>We are looking for someone mid-level <strong>with proven experience using Node and (some||all of) the above technologies</strong>. We are particularly looking for someone who can handle both backend (node) and frontend (AngularJS preferred, but open to alternatives – there will be some things server-side rendered too).</div>
+<div class="paragraph_break"><br></div>
+<div>Dialogue Group builds tools that help people have conversations. That might mean a scheduling tool, a survey tool, or something else altogether! We're always iterating our projects and ideas, and there is a lot of things to get your teeth into.</div>
+<div class="paragraph_break"><br></div>
+<div>You'll have a fair bit (1yr+) worth of experience with Node, having built or supported it <em>in production</em> on a sizeable codebase – that is, not just a TodoMVC app! I'd expect you to have some background in other languages etc.</div>
+<div class="paragraph_break"><br></div>
+<div>You will be expected to work full-time (~40hr week, but part time negotiable - see first line!), with at least 3-4 hours per day overlapping with our Australian team (GMT+11).</div>
+<div class="paragraph_break"><br></div>
+<div>We are looking for someone who will work hard, and deliver daily code deployments (or at least committing their progress to git!). </div>
+<div class="paragraph_break"><br></div>
+<div>Agencies/recruiters: we would like to work with our employees directly thanks, please don't get in touch.</div>
+<div class="paragraph_break"><br></div>
+<div>Please go through the portal below to apply – my email inbox (|phone) gets flooded otherwise :(</div>
+<div class="paragraph_break"><br></div>
+<div>* totally flexible on stack within general parameters: e.g. if (x) will be easier for that service, I'm all for it – "ship it quick, sink it quick".</div>
+
+    
+  </div>

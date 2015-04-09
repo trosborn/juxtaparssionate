@@ -1,0 +1,44 @@
+<title>Job: Ruby on Rails Developer (Full Stack) - PKW.de</title><div class="listing-container">
+    <div><strong>Who we are</strong></div>
+<div class="paragraph_break"><br></div>
+<div>PKW.de is a marketplace for new and used cars in Germany with over 10.000 dealers and 400.000 cars on the platform. What makes us unique is our price prediction algorithm for cars, which we developed ourselves. And we're looking to build more on top of this foundation.</div>
+<div class="paragraph_break"><br></div>
+<div>We are well-funded and making real revenue. As number 3 in the market we are growing very quickly right now.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Who you should be</strong></div>
+<div class="paragraph_break"><br></div>
+<div>While technical expertise matters, most importantly we are looking for a motivated developer, who is willing to contribute to our project with great ideas. Reliability, a proactive work attitude and the ability to think for oneself are the key characteristics we are looking for in a team member. In exchange, you get to work with real professionals, who are easy to work with and also interested in your view on things.</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>You would be taking a senior position in our team</li>
+<li>We’re looking for an experienced Ruby engineer who is able to develop features from concept to production</li>
+<li>In the best case you’re comfortable with the full stack, but we’re also interested in specialists for frontend or backend development</li>
+<li>Writing tests is a matter of course for you</li>
+<li>You’re a team player willing to share his knowledge with the rest of the team</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>More about the position</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>This is a full-time remote position without any location/time-zone restrictions.<strong> <strong>You are free to work from wherever you like</strong></strong>
+</li>
+<li>We're doing daily stand-ups and communicate mostly via Hipchat and Github and meet a few times a year in person</li>
+<li>We offer a competitive salary based on your location</li>
+<li>You will receive 26 days paid holiday</li>
+<li>Healthy work/life balance</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Our technology stack</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Ruby/Rails, R, Javascript</li>
+<li>Elasticsearch, MySQL, Redis</li>
+<li>HAML, SASS</li>
+<li>nginx, Unicorn</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong><strong>No recruiters or outsourcing companies please.</strong></strong></div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

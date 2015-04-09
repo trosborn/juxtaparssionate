@@ -1,0 +1,43 @@
+<title>Job: Backend Developer (Laravel) - Emerson Media</title><div class="listing-container">
+    <div>We’re looking for a backend developer specializing in modern PHP and Laravel who can help us build robust, maintainable web applications and libraries for ourselves and our clients, as well as contribute to the Laravel community.</div>
+<div class="paragraph_break"><br></div>
+<div>This position offers a great deal of flexibility, responsibility, and opportunity for growth. We are a small organization, and you will be a key member of our team: your contributions will significantly shape the technical and business direction of our organization.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Who We’re Looking For</strong></div>
+<div>First and foremost, you are a pragmatic technologist with strong communication skills who can join our technical team as a core member.</div>
+<div class="paragraph_break"><br></div>
+<div>In this position, you will:</div>
+<ul>
+<li>Architect, build, and maintain great Laravel applications for our clients</li>
+<li>Apply modern PHP standards to non-Laravel PHP projects on a limited basis</li>
+<li>Cultivate and maintain a current understanding of the Laravel codebase and modern PHP standards, as well as trends in the Laravel and PHP communities</li>
+<li>Work closely with our team to build and expand our internal platform and tools</li>
+<li>Contribute to the Laravel community, from new open-source projects to pull requests to blog posts</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>This position will be a good fit if you can demonstrate:</div>
+<ul>
+<li>Advanced understanding of PHP 5.4+ and PHP development standards, including use of reflection, traits, interfaces, and dependency injection, belief in SOLID principles, and the ability to write testable code and tests</li>
+<li>Advanced Laravel and/or Symfony2 development skills, and ideally, an in-depth understanding of the Laravel codebase</li>
+<li>Moderate “everyday” frontend skills: an ability to build pages of moderate complexity with Bootstrap, HTML5, LESS, and JS/jQuery/Browserify</li>
+<li>Excellent communication and writing skills, and an interest in teaching and sharing expertise</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>This is a full-time, remote position, and will be best for someone with significant experience working remotely. Our business operates in Eastern time. Most of your work day should fall between 08:00 and 18:00 Eastern time so we can all work together effectively. It is helpful (but not required!) if you’re based in the northeastern United States or Argentina where many of our staff are located.</div>
+<div class="paragraph_break"><br></div>
+<div>We work hard to cultivate an open and inclusive work environment, and we strongly value diversity in our coworkers. We encourage members of traditionally underrepresented communities to apply for this position.</div>
+<div class="paragraph_break"><br></div>
+<div>In your cover letter, please include your own answers to at least two of these questions:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>What's the difference between laravel/laravel, laravel/framework, and illuminate namespace?</li>
+<li>Give an example from Laravel or Symfony2 that demonstrates a SOLID principle of your choice.</li>
+<li>What are the names of the events that you should listen to when trying to do something after persisting an Eloquent model?</li>
+<li>How does Laravel use variatic functions?</li>
+<li>What is your favorite Symfony2 feature, and why? (Bonus points if Laravel makes use of it.)</li>
+<li>In your own words, explain a core philosophical concept behind an aspect of Symfony2's architecture.</li>
+</ul>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

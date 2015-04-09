@@ -1,0 +1,41 @@
+<title>Job: iOS Developer - ABODO</title><div class="listing-container">
+    <div>
+<strong>Job Description</strong><br>
+</div>
+<div>We’re currently recruiting for a talented team member to be a part of our growing development team. As an iOS developer, you’ll focus on implementing product features for our iOS application. Versatility and passion is a must as we’ll look to you to tackle new problems as we continue to push our product forward on a rapid development schedule. Within this position you’ll have the ability to express your opinions and ideas; directly affecting the product.</div>
+<div class="paragraph_break"><br></div>
+<div>As a full-time employee, you’ll also have the chance to get in on the ground floor of our growing company. You’ll work directly with other members of the product team to accomplish our core goal: make something people want.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Qualifications</strong></div>
+<ul>
+<li>iOS Development</li>
+<li>Experience with Xcode 6</li>
+<li>API Interaction</li>
+<li>Familiarity with UX design principles</li>
+<li>Experience with GitHub and git as a version control tool</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Company Description</strong></div>
+<div>We’re ABODO.com, a venture-backed, Madison, WI startup with the mission of finally making apartment hunting effortless. Over the past year ABODO has grown from a regional site to a nationwide competitor and we have even more aggressive plans for the future.</div>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>Perks of working for ABODO</strong><br>
+</div>
+<ul>
+<li>Competitive salary and stock options</li>
+<li>Laid back work environment</li>
+<li>Apple Equipment</li>
+<li>Open Vacation Policy - take paid time off as needed</li>
+<li>Casual Dress Code</li>
+<li>Beautiful office location in downtown Madison</li>
+<li>Unlimited coffee, snacks, and soda</li>
+<li>Mario Kart for NINTENDO64</li>
+<li>Bag Toss (Indoor or out)</li>
+<li>Ping Pong</li>
+<li>Vibrant, enthusiastic company culture</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>This is a full time, salaried position.</div>
+
+    
+  </div>

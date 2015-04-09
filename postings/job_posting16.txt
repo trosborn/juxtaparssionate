@@ -1,0 +1,27 @@
+<title>Job: Senior Software Engineer - BioIQ</title><div class="listing-container">
+    <div>BioIQ is seeking creative and independent engineers who are comfortable with a high degree of autonomy and an agile, collaborative work environment. We offer competitive salary based on experience and a great work environment in downtown Santa Barbara, CA (for those in the area). If you are a smart, versatile software engineer with a desire to work with the following technologies, we'd love to hear from you.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Required Experience</strong></div>
+<div><strong><br></strong></div>
+<ul>
+<li>4+ years working with Rails</li>
+<li>BDD and/or TDD</li>
+<li>Rspec / Cucumber</li>
+<li>Git</li>
+<li>MySQL</li>
+<li>Javascript/AJAX/jQuery</li>
+<li>HTML/CSS</li>
+<li>Basic UNIX understanding</li>
+<li>Passion for learning and sharing knowledge</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Desired Experience</strong></div>
+<div><strong><br></strong></div>
+<ul>
+<li>HL7</li>
+<li>API Design</li>
+<li>Clojure</li>
+</ul>
+
+    
+  </div>

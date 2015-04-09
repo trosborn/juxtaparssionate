@@ -1,0 +1,39 @@
+<title>Job: Extraordinary Senior PHP Engineer - Clevertech</title><div class="listing-container">
+    <div><strong>About You</strong></div>
+<div><strong><br></strong></div>
+<div>You’re most comfortable with PHP, and you love trying out new languages, frameworks, libraries, and leveraging them off, whenever necessary.</div>
+<div class="paragraph_break"><br></div>
+<div>You have rejected offers from companies like Google, Facebook, or Twitter, because they don’t believe in the power of Remote work.</div>
+<div class="paragraph_break"><br></div>
+<div>You have led projects and teams to success.</div>
+<div class="paragraph_break"><br></div>
+<div>You have visible and amazing accomplishments.</div>
+<div class="paragraph_break"><br></div>
+<div>You have extensive experience with Laravel and/or CodeIgniter (or similar frameworks).</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Your spoken and written english is native or native-like.</strong></div>
+<div class="paragraph_break"><br></div>
+<div><strong>About Clevertech</strong></div>
+<div><strong><br></strong></div>
+<div>We have been around for 15 years and have over 80 developers and designers, scattered all over the world working together.</div>
+<div class="paragraph_break"><br></div>
+<div>We are very much enthralled by Agile and Lean principles, successfully launching products in short windows of time, possible due to the power of focus.</div>
+<div class="paragraph_break"><br></div>
+<div>If you're looking to understand why it's so amazing to work for Clevertech, you can look at <a href="http://why.clevertech.biz/">why.clevertech.biz</a>
+</div>
+<div class="paragraph_break"><br></div>
+<div>Some of the great things we do are visible at <a href="http://visualcaptcha.net/">visualcaptcha.net</a>,<a href="http://eskimo.io/">eskimo.io</a>, <a href="http://cleverte.ch/bloomberg">cleverte.ch/bloomberg</a>, and <a href="http://clevertech.biz/">clevertech.biz</a>.</div>
+<div class="paragraph_break"><br></div>
+<div>We could tell you more, but it’s much more interesting to see what you find out.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>About the Job</strong></div>
+<div><strong><br></strong></div>
+<div>If you fit this description, reach out with your best 2 accomplishments and tell us a story about your ambition and how working with us will help you achieve it.</div>
+<div class="paragraph_break"><br></div>
+<div>We require that you work at least 5 hours within New York’s 9am-5pm.</div>
+<div class="paragraph_break"><br></div>
+<div>This is a full-time, fully remote, 8h/day, 40h/week, 160h/month offer.</div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

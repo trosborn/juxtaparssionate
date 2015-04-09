@@ -1,0 +1,45 @@
+<title>Job: JavaScript Developer - Toptal, LLC</title><div class="listing-container">
+    <div>
+<strong>About Toptal</strong><br>
+</div>
+<div class="paragraph_break"><br></div>
+<div>Toptal is one of the most innovative and rapidly expanding tech start-ups from Silicon Valley. With backing from investors such as Andreessen Horowitz and Adam D’Angelo, our platform is the fastest growing labor marketplace in the history of the Internet—connecting thousands of elite engineers all over the world. In the last four years, Toptal has become the #1 choice for tech companies requiring top-tier engineering talent and for the <a href="http://toptal.com/top-3-percent">top 3%</a> of freelancers looking for their next challenge.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Position Description</strong></div>
+<div class="paragraph_break"><br></div>
+<div>We are looking for a JavaScript Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include implementing visual elements and their behaviors with user interactions. You will work with both front-end and back-end web developers to build all client-side logic. You will also be bridging the gap between the visual elements and the server-side infrastructure, taking an active role on both sides, and defining how the application looks and functions.</div>
+<div class="paragraph_break"><br></div>
+<div>By joining the Toptal network, you’ll have the opportunity to work on many client projects ranging from start-ups to Fortune 500s with teams of highly skilled experts from around the world. </div>
+<div class="paragraph_break"><br></div>
+<div>This is a remote position that can be done from anywhere.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Responsibilities</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Develop new user-facing features.</li>
+<li>Build reusable code and libraries for future use.</li>
+<li>Ensure the technical feasibility of UI/UX designs.</li>
+<li>Optimize applications for maximum speed and scalability.</li>
+<li>Assure that all user input is validated before submitting to back-end services.</li>
+<li>Collaborate with other team members and stakeholders.</li>
+</ul>
+<ul><li>Take smart risks and champion new ideas.</li></ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Requirements</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Strong understanding of JavaScript, its quirks, and workarounds.</li>
+<li>Basic understanding of web markup, including HTML5 and CSS3.</li>
+<li>Experience with AngularJS, Underscore.js, Backbone.js, React.js is a plus.</li>
+<li>Good understanding of asynchronous request handling, partial page updates, and AJAX.</li>
+<li>Proficient understanding of cross-browser compatibility issues and ways to work around such issues.</li>
+<li>Familiarity with JavaScript module loaders, such as Require.js and AMD.</li>
+<li>Familiarity with front-end build tools, such as Grunt and Gulp.js.</li>
+<li>Proficient understanding of code versioning tools, such as Git.</li>
+<li>Good understanding of browser rendering behavior and performance.</li>
+<li>Be willing to help your teammates, share your knowledge with them, and learn from them.</li>
+<li>Be open to receiving feedback.</li>
+</ul>
+
+    
+  </div>

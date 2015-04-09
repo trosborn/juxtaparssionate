@@ -1,0 +1,51 @@
+<title>Job: Serious Programming Chops? Let's Talk! - Hello Labs</title><div class="listing-container">
+    <div>
+<strong>We’re looking for candidates who...</strong><br>
+</div>
+<ul>
+<li>Can work closely within a small team led by a project manager.</li>
+<li>Communicate well. What we do is challenging and communication is paramount.</li>
+<li>Don’t fear a large existing code base.</li>
+<li>Program for fun and take pride in their craft.</li>
+<li>Embrace test-driven development.</li>
+<li>Believe in the importance of clear, maintainable code.</li>
+<li>Accept guidance and critiques and can give the same to others.</li>
+<li>Can see the forest through the woods.  (self prioritize)</li>
+<li>Can flourish in a fast-paced, ever-changing agile environment.</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Experience</strong></div>
+<ul>
+<li>Several years working with relational database</li>
+<li>Several years professional programming experience</li>
+<li>Programming using Perl and a MySQL database (or desire to learn) </li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Our Toolbox</strong></div>
+<div>We use several applications to make things easier and work better together. We also like to experiment with new ideas and software. We are currently liking:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Jira (issue tracking)</li>
+<li>Confluence (documentation)</li>
+<li>Bamboo (continuous integration)</li>
+<li>Hipchat (chat)</li>
+<li>Google Apps (email, calendar, etc.)</li>
+<li>Google Hangouts (standups and meetings)</li>
+<li>Github (source control)</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Compensation &amp; Benefits</strong></div>
+<ul>
+<li>Unlimited PTO program</li>
+<li>Friendly, team oriented, culture-driven environment with a growing company of top talent</li>
+<li>Competitive salary</li>
+<li>Comprehensive benefits package (medical, dental, retirement)</li>
+<li>401k program with contribution matching</li>
+<li>Company-issued Macbook</li>
+<li>We have a telepresence robot!</li>
+<li>Company sponsored events like holiday parties, segway tours, paddleboarding, go-karting and movies to name a few.</li>
+<li>Free lunch every Friday @ HQ</li>
+</ul>
+
+    
+  </div>

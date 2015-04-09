@@ -1,0 +1,21 @@
+<title>Job: Front-end Developer - Blendmode</title><div class="listing-container">
+    <div>We’re a small team of experts that design and build remarkable websites and mobile apps for start-ups and entrepreneurs. I’m Mitchell, the founder and designer. I work with 2 others; A marketer and back-end developer. Together, we do everything to help start-ups and entrepreneurs be successful online, but our focus is design and development of websites and mobile apps.</div>
+<div class="paragraph_break"><br></div>
+<div>I’m looking for a confident and opinionated front-end developer with a broad range of experience. You must have experience working remotely already, and be an over-communicator.</div>
+<div class="paragraph_break"><br></div>
+<div>I’d only like to hear from you If you have worked with, and want more of the following:<br>
+</div>
+<div> - Javascript and everything that’s trendy right now (React, Node, Coffee e.t.c.)</div>
+<div> - Hybrid mobile development with PhoneGap and Ionic or something similar</div>
+<div> - A workflow that involves bower, grunt, middleman or similar tools</div>
+<div> - Use of pre-processors like HAML, SASS e.t.c. to build responsive templates</div>
+<div> - Integrating front-end work into back-end frameworks like Rails, or even Wordpress.</div>
+<div> - Using Git and GitHub to manage code, deploying static sites, using SSH</div>
+<div> - Working directly with designers and developers, and being responsible for projects</div>
+<div> - Estimate completion times and suggest new or better features and technology</div>
+<div class="paragraph_break"><br></div>
+<div>It's a big ask but you'll be rewarded with flexible working hours, autonomy on projects and a very good salary. You also have the option to work out of our offices in Sheffield if you like.</div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

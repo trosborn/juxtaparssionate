@@ -1,0 +1,19 @@
+<title>Job: PHP Developer - Crew</title><div class="listing-container">
+    <div>We're always trying to improve Crew. New features, scaling, internal tools, data visualization - whatever you like to work on, we have a little something for everyone on our wishlist.</div>
+<div class="paragraph_break"><br></div>
+<div>We're also the makers of Unsplash (<a href="https://unsplash.com">https://unsplash.com</a>), How Much To Make an App (<a href="https://howmuchtomakeanapp.com">http://howmuchtomakeanapp.com</a>) and a bunch of other side projects which would love your attention.</div>
+<div class="paragraph_break"><br></div>
+<div>We use CakePHP, but as long as you're versed in object-oriented PHP and the MVC pattern (Lavavel, CodeIgniter, Symfony, etc) you're golden.</div>
+<div class="paragraph_break"><br></div>
+<div>Every job includes the usual stuff: healthcare/benefits, competitive salary, mandatory vacation time, and any tools you need.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>About Crew</strong></div>
+<div class="paragraph_break"><br></div>
+<div>Crew (<a href="https://pickcrew.com">https://pickcrew.com</a>) connects the best design and development projects with a handpicked community of vetted freelancers. Many online workplaces pit freelancers against one another, ultimately landing on price as the main factor. This doesn't lead to innovation, but rather, mediocrity. </div>
+<div class="paragraph_break"><br></div>
+<div>At Crew, we're building a different system. One that values the quality of the work done. Crew unlocks creativity for all by taking care of everything from idea to launch and beyond: smart budget recommendations, professional vetting, step-by-step project management, and on-time payment and delivery.</div>
+<div class="paragraph_break"><br></div>
+<div>Learn about how we work on our site (<a href="https://pickcrew.com/how-we-work">https://pickcrew.com/how-we-work</a>) or do some deeper stalking by reading our Backstage blog (<a href="http://backstage.pickcrew.com">http://backstage.pickcrew.com</a>)</div>
+
+    
+  </div>

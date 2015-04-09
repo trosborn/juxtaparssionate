@@ -1,0 +1,55 @@
+<title>Job: JavaScript Developer / Consultant (US &amp; Canada Only) FT, Remote - Bitovi</title><div class="listing-container">
+    <div>This is a remote, full-time position.  Due to travel requirements, at this time we are seeking candidates in the <strong>domestic US or Canada only</strong><strong> </strong>who are willing and able to travel one week per month.</div>
+<div class="paragraph_break"><br></div>
+<div><strong><strong>We’re looking for passionate JavaScript developers who identify with our mission.</strong></strong></div>
+<div class="paragraph_break"><br></div>
+<div>We want someone who enjoys identifying the hard parts of application development and simplifying them, talking about software architecture, and teaching others. We also want someone who can lead others and be an integral part of a team, but can also vibe with the dev team after the workday.</div>
+<div class="paragraph_break"><br></div>
+<div>Specifically, the following attributes are major positives, but not all hard requirements:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Has strong opinions about the right way to develop</li>
+<li>Has a lot of JavaScript experience</li>
+<li>Has some experience with back-end systems and databases</li>
+<li>Enjoys working on client projects and can effectively interface with clients</li>
+<li>Some experience contributing to (or at least using) open source projects</li>
+<li>Doesn’t mind a bit of travel, averaging one week every month (hard requirement!)</li>
+<li>Wants to be part of an awesome team of developers and designers</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>THE JOB</strong></div>
+<div class="paragraph_break"><br></div>
+<div>As soon as you begin, we’ll train you to become an expert in JavaScript application design, front-end architecture, and our open source stack of tools. You’ll work with clients creating applications, discussing and designing architectures, reviewing code, and researching new front-end technologies.</div>
+<div class="paragraph_break"><br></div>
+<div>In addition to client work, you’ll have the opportunity to shape a small and growing company by applying your talent and passion to the JavaScript community in your own way. Bitovi developers:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Present at conferences and to the Bitovi team</li>
+<li>Give trainings</li>
+<li>Plan and run meetups</li>
+<li>Create and maintain open source projects</li>
+<li>Write articles</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>About Bitovi</strong></div>
+<div><strong><br></strong></div>
+<div>We’re a team of 30ish developers and designers  that helps companies create better web applications.  We have a track record of building high-profile and amazing web applications.  Our apps are built with tests, full docs and a deployment process in place.  We created the open source tools powering the applications we build.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Benefits</strong></div>
+<div class="paragraph_break"><br></div>
+<div>Bitovians get a slate of great benefits. Bitovi offers:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Competitive salary and annual bonuses</li>
+<li>4 weeks of paid vacation</li>
+<li>Bi-annual company retreats to places like <a href="http://www.bitovi.com/blog/2014/03/bitovi-employee-retreat-vegas.html">Las Vegas</a>, Austin, New Orleans, and Amelia Island, Florida</li>
+<li>401(K) Plan with matching</li>
+<li>Health and dental insurance</li>
+<li>Gym membership reimbursement</li>
+<li>Maternity &amp; Paternity leave</li>
+<li>Working from home with flexible hours</li>
+</ul>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

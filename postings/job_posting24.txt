@@ -1,0 +1,42 @@
+<title>Job: Front-end Developer - Shopify Custom</title><div class="listing-container">
+    <div>We're a small remote team focused 100% on building the best ecommerce experiences on the web using Shopify. We're engaged in interesting projects for nationally recognized brands, rapidly growing ecommerce startups and lots of folks in between.</div>
+<div class="paragraph_break"><br></div>
+<div>We're looking for an experienced, hard-working front-end developer to join us. </div>
+<div class="paragraph_break"><br></div>
+<div><strong>Why you might enjoy working with us:</strong></div>
+<ul>
+<li>Freedom to really care about what you're doing (we're focused on quality)</li>
+<li>Freedom to work. We get out of your way and trust you to do what you do best.</li>
+<li>Freedom to own projects from a development standpoint</li>
+<li>Freedom to focus and get really good at what you do (we're focused 100% on ecommerce and the Shopify platform)</li>
+<li>Freedom to live (we understand what's important in life, and it's not work!)</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>You:</strong></div>
+<ul>
+<li>Expertise in HTML/CSS/Sass/JS</li>
+<li>Familiar with OOCSS, SMACSS, or BEM</li>
+<li>Versed in RWD techniques and mobile performance</li>
+<li>Write well-structured JavaScript</li>
+<li>Write your own jQuery plugins</li>
+<li>Comfortable with building front-end templates using JSON APIs</li>
+<li>Take pride in clean, readable code</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>   More importantly -</div>
+<ul>
+<li>Desire to learn (curiosity)</li>
+<li>Passion for all things web</li>
+<li>Willingness to do things the right way (especially, late in the game when it's hard)</li>
+<li>Easy and enjoyable to work with</li>
+<li>Have attention to detail</li>
+<li>Communicate well in writing</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>If you also have experience with Shopify and/or Liquid that's a big plus. If you don't, but are a quick study, we'll help you get up to speed.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>The position:</strong></div>
+<div>You’ll work with our designers who will provide design direction. You’ll typically be the sole developer on your project, taking full ownership of the project from a development standpoint. Project management is handled by someone else so that you can focus on what you do best. We are craftsmen/women. This is a position where your attention to detail and desire to do things right will be encouraged and rewarded. </div>
+
+    
+  </div>

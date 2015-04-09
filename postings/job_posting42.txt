@@ -1,0 +1,54 @@
+<title>Job: Rails Developer - Intellum</title><div class="listing-container">
+    <div><strong>Overview</strong></div>
+<div><strong><br></strong></div>
+<div>We are looking for someone with solid experience working on production Rails applications and good all around back end and front end (HTML, CSS and JavaScript) skills.</div>
+<div class="paragraph_break"><br></div>
+<div>Experience with Postgres and Node.js would also be great, but a love for what you do and an eagerness to learn would be even better.</div>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>Technology</strong><br>
+</div>
+<div><strong><br></strong></div>
+<ul>
+<li>Ruby 1.9.3 &amp; 2.1</li>
+<li>Rails 3.2 &amp; 4</li>
+<li>Elasticsearch</li>
+<li>Redis</li>
+<li>Sidekiq</li>
+<li>AWS</li>
+<li>GCS</li>
+<li>Passenger</li>
+</ul>
+<div><strong><br></strong></div>
+<div><strong>Responsibilities</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Design and build new features for our LMS, and suite of applications</li>
+<li>Work on bug fixes and improving application performance</li>
+<li>Write well-crafted, high-quality, self-documented, and easy to maintain code</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div class="paragraph_break"><br></div>
+<div><strong>Skills &amp; Requirements</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Bachelor’s degree in Computer Science or related field</li>
+<li>3 - 5 years experience writing production Rails applications</li>
+<li>Strong communication skills and ability to work cross-functionally.</li>
+<li>Good understanding of relational databases and SQL</li>
+<li>Experience with Amazon Web Services such as S3, EC2, etc…</li>
+<li>Exposure to NoSQL technologies such as Redis and ElasticSearch</li>
+<li>Experience with Git and Github</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>About Intellum</strong></div>
+<div><strong><br></strong></div>
+<div>Intellum is an Atlanta-based company with a development team distributed around the world. We strive to hire the best, regardless of location.  Our clients are incredible teams of people from companies such as Google, NASCAR, AT&amp;T, and Facebook. We are a company of doers and creators. We are not a sales and marketing machine. We believe that enterprise software should help our clients use technology to reach their highest potential and that it should be every bit as enjoyable, powerful and user-friendly as the consumer applications that we use everyday.</div>
+<div class="paragraph_break"><br></div>
+<div>Our main product (Exceed LMS) is built with Rails and processes millions of student enrollments annually in over 11,000 cities and 65 countries. We have been pushing the boundaries of Rails for years now. Our other product, Tribe Social, is built on top of MongoDB and node.js. We also use Redis in many places in our stack.</div>
+<div class="paragraph_break"><br></div>
+<div>We are a small team and maintain the startup feel at our company despite being in business for more than 14 years. We’ve been featured on the <a href="https://signalvnoise.com/posts/2935-how-intellum-switched-from-making-a-plan-for-vcs-to-making-a-product-for-customers">37signals blog</a> where you can learn more about our history.</div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

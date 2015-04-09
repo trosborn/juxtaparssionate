@@ -1,0 +1,47 @@
+<title>Job: Senior Rails Engineer - General Assembly</title><div class="listing-container">
+    <div>WHO ARE WE?</div>
+<div class="paragraph_break"><br></div>
+<div>General Assembly provides opportunities and education in technology, design, and business for individuals and enterprises, enabling people to pursue work that is meaningful to them. We offer classes, workshops, long-form courses, and events for tens of thousands of students in 14 markets worldwide.</div>
+<div class="paragraph_break"><br></div>
+<div>What we build</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Data &amp; systems that support our global campus business </li>
+<li>Evolving large applications into an ecosystem of microservices</li>
+<li>Innovative online education experiences for consumer &amp; enterprise users</li>
+<li>Platforms to connect our community of students &amp; alumni</li>
+<li>Internal tools supporting every part of our organization </li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>What it's like to be on the team</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>We use GitHub for code review, Code Climate and Semaphore to keep entropy at bay, and Heroku to focus on building things</li>
+<li>We favor trying new things over fear of mistakes</li>
+<li>We are anti-dogmatic: use whatever code editor you like, pair-program when you like</li>
+<li>Four times a year, we fly the whole engineering team to New York for a few days of workshops, lightning talks, urban adventures, and an epic hackathon.</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>Who you are</div>
+<div class="paragraph_break"><br></div>
+<div>We are looking for talented &amp; creative engineers to join our growing team, and help us build great products.</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>You have 3-5 years of experience as a mid to senior level engineer</li>
+<li>You're used to working with Rails &amp; Ruby and you have advanced experience building RESTful web services &amp; APIs</li>
+<li>You have experience working with a variety of languages, with a strong grasp of their pros &amp; cons</li>
+<li>You're a kind &amp; respectful person, invested in contributing to a wonderful team culture (bullies &amp; big egos strictly not allowed)</li>
+<li>You are occasionally enthusiastic to the point of being profoundly uncool</li>
+<li>You get insanely excited by at least 1 thing that has absolutely nothing to do with computers</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>Some other things that would be really nice to have ... </div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Strong front-end development skills</li>
+<li>Experience designing service-oriented architecture</li>
+<li>Web operations or system administration experience</li>
+</ul>
+
+    
+  </div>

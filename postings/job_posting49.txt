@@ -1,0 +1,20 @@
+<title>Job: Rails Developer - MyPizza.com</title><div class="listing-container">
+    <div>MyPizza.com is looking for a Ruby on Rails developer. We are a marketplace for independent pizzerias in the United States. We're looking for a developer to join our small but growing team and work to build new features.</div>
+<div class="paragraph_break"><br></div>
+<div>Requirements:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li> 3+ Years of experience building web applications with Ruby on Rails.</li>
+<li> Full stack developer: able to handle a wide range of areas of development of a Ruby on Rails application. From tweaking CSS to optimizing ActiveRecord usage.</li>
+<li> Experience with the usage of HTTP REST-style APIs.</li>
+<li>Experience building e-commerce features, like shopping carts and payment processing.</li>
+<li>Experience with responsive and mobile front-end implementation.</li>
+<li>Preferably experienced with cloud-style infrastructure providers, particularly AWS.</li>
+<li>A sharp focus on the end-user experience.</li>
+<li>Strong communication skills in the English language.</li>
+<li>Demonstrated ability to work effectively in a remote team.</li>
+<li>Creative thinker, willing to bring new ideas to the table.</li>
+</ul>
+
+    
+  </div>

@@ -1,0 +1,64 @@
+<title>Job: Full Stack Developer - When I Work</title><div class="listing-container">
+    <div>
+<strong>Who We’re Looking For</strong><br>
+</div>
+<div>Do you want to contribute to practical web apps as part of a company that's transforming the landscape of scheduling software? </div>
+<div class="paragraph_break"><br></div>
+<div>We're looking for a seasoned, full-stack developer to join our growing team and expand upon both of our current products. You'll work on everything from UI to complex server-side applications, linux server tweaking and database architecture, and our <a href="http://dev.wheniwork.com/">REST API</a>. You are a developer who:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Wants to build something meaningful, always with the end-user in mind</li>
+<li>Is a forward thinker, obsessed with good software design and best practices</li>
+<li>Loves creating apps that are as elegant under the hood as they are on the front end</li>
+<li>Brings passion, innovation and problem solving to every endeavor </li>
+<li>Has a preoccupation with staying on top of industry trends and new technology</li>
+<li>Desires to be personally responsible for production-level code</li>
+<li>Possesses ingenuity to leverage all available tools and resources</li>
+<li>Communicates well, both written and verbally</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>What You’ll Be Doing</strong><br>
+</div>
+<div>You’ll be working alongside our product development team, building apps that make every piece of hourly workforce management - scheduling, time tracking, shift trading and more - easy and straightforward, for managers and employees alike. In addition to development, you’ll have the opportunity to offer ideas, feedback and perspective on everything we produce. This is our expectation! Your ideas and code will be put in production and used by thousands all over the world.<br>
+</div>
+<div>Tasks include:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Rolling out new features, and analyzing (and reacting) to the results you discover from our system services and user feedback</li>
+<li>Optimizing existing functionality for improved response times</li>
+<li>Brainstorming with a dynamic team to flesh out new ideas and investigate tricky issues</li>
+<li>Searching creatively for the best solution, while building for the end-user</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>Experience and Skills Needed</strong><br>
+</div>
+<ul>
+<li>Top-notch programming skills, ability to produce quality code that is maintainable, efficient, reliable and secure.</li>
+<li>Strong development experience in PHP, Python, Ruby, or Java (or Go). Current stack is PHP and Ruby but we’re always looking for the best language for each solution.</li>
+<li>Deep understanding of JavaScript and frameworks (backbone.js, AngularJS, EmberJS)</li>
+<li>Distributed version control (git) and regular deployments</li>
+<li>Expertise in Database Design and Concepts (MySQL, SQLite, ORM)</li>
+<li>Preferred: Contributions to Open-Source projects</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>What’s In It For You</strong></div>
+<ul>
+<li>Medical and dental benefits</li>
+<li>Paid vacation and holidays</li>
+<li>Remote work environment … work where you work best</li>
+<li>Dynamic and dedicated team</li>
+<li>Data/Cell (internet) stipend</li>
+<li>Casual dress code</li>
+<li>Most of all smart and driven team members that love to collaborate, seek feedback, and improve</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>Sound Like a Good Fit?</strong><br>
+</div>
+<div>Check out our core values (<a href="http://wheniwork.com/about">http://wheniwork.com/about</a>). If they excite you, we’d love to talk! </div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

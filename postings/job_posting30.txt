@@ -1,0 +1,35 @@
+<title>Job: Java/Web Developer - Catylist</title><div class="listing-container">
+    <div><strong>About Us</strong></div>
+<div class="paragraph_break"><br></div>
+<div>We're building a nationwide network of crowdsourced commercial real estate databases. Our wild start-up days are behind us – we're all grown up and profitable now with a 14-year track record and tens of thousands of clients that love us.</div>
+<div class="paragraph_break"><br></div>
+<div>Within our small team, you'll be doing a little bit of everything:<br>
+</div>
+<ul>
+<li>Building and maintaining server-side frameworks and APIs</li>
+<li>Adding and refining front-end features (JSP, JavaScript, JQuery, HTML5)</li>
+<li>If you're into it, configuring and managing parts of our stack (JBoss/Wildfly, MySQL, MongoDB, ElasticSearch/ELK, salt)</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>We're not dogmatic about our tools/technologies – we use whatever best suits the task at hand. </div>
+<div class="paragraph_break"><br></div>
+<div><strong>About You</strong></div>
+<div class="paragraph_break"><br></div>
+<div>Like us, you value stability, work/life balance, group decisions, and working with people that are good-natured, interesting, hard-working, and self-motivated.</div>
+<div class="paragraph_break"><br></div>
+<div>You're a quick study, have some experience using Java to build web applications, and aren't afraid of the command line.</div>
+<div class="paragraph_break"><br></div>
+<div>Catylist is for you if...<br>
+</div>
+<ul>
+<li>You hate the corporate bureaucracy of a big company.</li>
+<li>You're <em>so over</em> the chaos and uncertainty of a start-up. You like having reasonable hours and knowing that your job will be around next week.</li>
+<li>Consulting/freelance is not your bag. You prefer to maintain and improve the products you've built rather than hand them off and move on.</li>
+</ul>
+<div> <br>
+</div>
+<div>This is a full-time, 40 hours per week, remote, W2 position with benefits (health/dental/vision/401k).</div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

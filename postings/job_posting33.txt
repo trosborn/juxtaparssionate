@@ -1,0 +1,54 @@
+<title>Job: Software Engineer (Java + Solr) - Help Scout</title><div class="listing-container">
+    <div>The ideal engineer for this position has a high level of expertise with Solr specifically. We leverage Solr for several tools at Help Scout and are looking for someone that can improve and maintain our implementation as we grow. </div>
+<div class="paragraph_break"><br></div>
+<div>Our engineering team is small (10), remote and responsible for supporting the code they write (talking to customers). There is no dedicated QA team, so we expect automated tests to be part of your development process. Due to our size and remote culture, Help Scout is not the right fit for entry-level or junior engineers at this time.</div>
+<div class="paragraph_break"><br></div>
+<div>Tools We Use</div>
+<ul>
+<li>Java 7 and 8</li>
+<li>Play framework</li>
+<li>MySQL, MongoDB, Solr</li>
+<li>RabbitMQ</li>
+<li>Git</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>About the Role</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>You'll collaborate with the Operations team to scale our Solr infrastructure and work on improvements to the current codebase. Solr runs all search functions, reporting, folder views and other areas of the product. </li>
+<li>You'll help to maintain the Help Scout APIs (internal and public) within a small team of passionate engineers. Your world includes everything from documentation to new endpoints and performance optimization. All new product features are built on the APIs and we'd like them to be a pleasure for developers to use as well.</li>
+<li>The team consists of 10 senior-level engineers. Aside from a couple of weekly check-ins or project updates, you'll be able to work interruption-free. 90% of our communication happens over chat.</li>
+<li>You'll be working with product people. The founders are technical and committed to creating a magical experience for customers. You'll deploy high quality work that moves the needle for businesses around the world.</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>About You</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>You became an engineer because you like writing software that helps people.</li>
+<li>You have a history of working on products at scale and can bring a high level of expertise to the business.</li>
+<li>Your code is not only a pleasure for customers to use, but for other engineers to read and understand easily.</li>
+<li>You can speak and write in terms that non-geeks can understand clearly, whether it be in a conference call, blog post or support email.</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>BENEFITS</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>
+<strong>Work anywhere</strong> - work from our office in Boston or anywhere else, provided you have 4 hours of overlap with the team</li>
+<li>
+<strong>Health/dental/vision</strong> - we cover you and your family's health/dental insurance 100% and reimburse up to half of your deductible. Short-term and long-term disability is offered at a very affordable rate.</li>
+<li>
+<strong>Flexible vacation</strong> - take time off when you need it, we trust you</li>
+<li>
+<strong>Great tools</strong> - each employee needs a Mac laptop and 27' display, so we'll get you what you need</li>
+<li>
+<strong>Complete transparency </strong>- everyone has full access to business metrics and financial information about the company</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>--</div>
+<div class="paragraph_break"><br></div>
+<div><em>Help Scout supports workplace diversity and does not discriminate on the basis of race, color, religion, gender identity or expression, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, physical or mental disability, or any other protected class. </em></div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

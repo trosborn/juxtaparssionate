@@ -1,0 +1,98 @@
+<title>Job: Rails Developer - Decisiv</title><div class="listing-container">
+    <div>
+<strong>About Decisiv</strong>
+
+</div>
+<div>Decisiv has built a unique
+cloud based collaboration platform that connects people, places, systems and
+things around service management for commercial assets.  Decisiv’s partners include Volvo and Mack
+Trucks, Ryder Truck Systems, Nationalease and many others.  We work at the leading edge of connected
+vehicle technology and have developed an award winning telematics solution with
+Volvo Trucks – recognized by Telematics Update as the leading connected vehicle
+solution on the globe, pulling real time vehicle location, performance
+parameters and faults into a network service ecosystem for rapid repair and
+return to use.  Decisiv’s Service
+Relationship Management platform is used by over 2,000 service providers
+managing over 1M assets.</div>
+<div class="paragraph_break"><br></div>
+<div>
+
+<strong>Why work with us?</strong>
+
+</div>
+<div>We're a small, passionate,
+agile team of developers. We work remotely via Slack, Jira, Confluence, and Hangouts.
+We meet regularly during the year to enjoy some time together and stay
+connected to the rest of the Decisiv management team and the service and sales
+groups.  We're flexible, autonomous, and
+strongly committed to delivering a valuable service with a great user
+experience. We work hard but sustain a healthy work/life balance.</div>
+<div class="paragraph_break"><br></div>
+<div>
+
+<strong>Your experience should show some or
+all these:</strong>
+
+</div>
+<ul>
+<li>Work
+with Ruby and Rails</li>
+<li>Huge
+success in API (RESTful) development</li>
+<li>UI/UX
+design with a modern JavaScript Framework</li>
+<li>Test
+or behavior-driven development and CI</li>
+<li>Object
+design, data modeling and software architecture skills</li>
+<li>Understanding
+of business requirements and acceptance criteria</li>
+<li>Selection
+of new technologies with creativity and due diligence</li>
+</ul>
+<div>
+
+
+
+
+
+
+
+
+
+
+
+<strong></strong>
+</div>
+<div><strong><br></strong></div>
+<div><strong>It’s great if your
+experience also demonstrates:
+
+</strong></div>
+<ul>
+<li>Deep
+SQL or no-SQL skills</li>
+<li>Integrating
+with external systems</li>
+<li>Developing
+significant libraries, algorithms or adapters</li>
+<li>Managing
+complexity in large applications</li>
+<li>Leadership
+of project, team or process</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>We'd
+love to see your Github account, code samples, or anything that shows your
+work. If such are unavailable, we can give you a short coding exercise. If you
+provide an example design document or README (or even an email) demonstrating
+thought and communication that's helpful too. So drop us a line and tell us
+about yourself!</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Principals only - no recruiters. All candidates must live in the United States and be legal to work in the United States.</strong></div>
+<div class="paragraph_break"><br></div>
+<div> </div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

@@ -1,0 +1,113 @@
+<title>Job: Ruby on Rails Developer (Full Stack) - Peoplespark</title><div class="listing-container">
+    <div><strong>Who we are</strong></div>
+<div class="paragraph_break"><br></div>
+<div>We are currently in stealth mode, but right now we can tell you that:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Our mission is to make 1,000,000 people quantifiably happier at work</li>
+<li>Our founder has previously built 3 successful companies</li>
+<li>We are focused on an industry that’s ripe for disruption</li>
+<li>We are looking for the best person, regardless of where you are</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>We will of course tell you more if you apply for the position and if we feel you’re a good fit. Because we’re in stealth mode, we simply want to limit the amount of information we put out publicly right now. Thanks for understanding.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>What we’re building</strong></div>
+<div class="paragraph_break"><br></div>
+<div>A beautiful, simple SaaS platform that helps fast-growing companies dramatically improve their culture as they scale.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Who you are</strong></div>
+<div class="paragraph_break"><br></div>
+<div>If these words describe you, then please keep reading:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Entrepreneurial</li>
+<li>Results-driven</li>
+<li>Reliable</li>
+<li>Passionate</li>
+<li>Committed</li>
+<li>Resourceful</li>
+<li>Life-long learner</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>You love building things and you’re a hardcore technologist - but you’re not arrogant or set in your ways. You know when it’s time to whiteboard ideas but you also know how to avoid analysis paralysis and build great software.</div>
+<div class="paragraph_break"><br></div>
+<div>You make technical decisions that take into account today’s considerations (ship early and often) but you also think a few years down the track. Sure, 100 people might use that feature today, but how will it perform when there are 1,000,000 users in 3 years? You know the delicate balance between over-engineering and under-planning.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>What you’ve done</strong></div>
+<div class="paragraph_break"><br></div>
+<div>You’ve done a good amount of freelancing or remote work in the past, so you’re used to using tools like Slack and Google Hangouts to keep in constant communication with your team - whether they’re in the same city or on the other side of the world.</div>
+<div class="paragraph_break"><br></div>
+<div>You can work as part of a small team or on your own, but you’re an excellent written and verbal communicator. You probably have your own personal blog and/or regularly contribute to Medium or Quora to help others. You’re always learning and have a thirst for knowledge.</div>
+<div class="paragraph_break"><br></div>
+<div>Because you’ve worked at fast-growing startups before, you’re comfortable wearing multiple hats and switching between them regularly - sometimes hourly. Nothing is too much effort for you and you like getting in and rolling up your sleeves to solve a problem. If you need to learn a new technology or skill, no problem - you’ll get it done.</div>
+<div class="paragraph_break"><br></div>
+<div>You’ve worked on both small and large projects in the past and love building software. Because you consider yourself a full stack engineer, you’re extremely proficient working with technologies including:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Ruby On Rails</li>
+<li>Javascript (CoffeeScript)</li>
+<li>Angular.js</li>
+<li>PostgreSQL / MySQL</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>Ideally, you also have one or more of these skills:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Strong front-end development skills</li>
+<li>Experience designing service-oriented architecture</li>
+<li>Web operations or system administration experience</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>How you see the world</strong></div>
+<div class="paragraph_break"><br></div>
+<div>In past roles, you’ve worked directly with customers to help understand their needs and translate a product spec into functional, production ready code. You’re mature enough to know that being a developer is about much more than writing code and you think about architecture, scalability, performance, design implications and most importantly - the customer - with every decision you make.</div>
+<div class="paragraph_break"><br></div>
+<div>You care deeply about your legacy. Code quality is extremely important to you and as such you pay close attention to detail. Anything pushed into production by you is known to be polished and well thought out - and you take pride in that. You’re a craftsman (or woman) and see code as the tool you use to create software that people love.</div>
+<div class="paragraph_break"><br></div>
+<div>Finally, when asked what you’re best at, “learning” would top the list. You know that technologies come and go and understand that a continual commitment to learning is really the only thing that matters.</div>
+<div class="paragraph_break"><br></div>
+<div>In regards to experience, you:</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Have at least 3 years of experience as a developer</li>
+<li>Are used to working with RoR and have experience building RESTful web services &amp; APIs</li>
+<li>Have experience working with multiple languages and can speak to the pros and cons of each</li>
+<li>Are not a jerk and don’t have an ego - you respect people and go out of your way to be helpful</li>
+<li>Have passions or hobbies outside of work - you understand the need for balance</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Where you are</strong></div>
+<div class="paragraph_break"><br></div>
+<div>At home, at your local coffee shop or living life as a digital nomad. You are wherever you want to be and wherever makes you happy. We are a fully distributed team.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Things you might do</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Build and ship features independently, with fast release cycles (every week)</li>
+<li>Enhance and extend our SaaS architecture to support rapid growth in number of customers</li>
+<li>Reply to support inquiries not because you feel you have to, but because you want to understand customers better</li>
+<li>Work with other engineers and product designers to brainstorm and test new ideas</li>
+<li>Help onboard new engineers and show them the ropes</li>
+<li>Drive to continuously maintain high product quality and improve the process</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Benefits and perks</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Highly competitive salary</li>
+<li>Stock options</li>
+<li>Premium health coverage</li>
+<li>Work from wherever makes you happy</li>
+<li>Reimbursement for a desk in a co-working space if required</li>
+<li>Choose the hours you work (4+ hours overlap with U.S. required)</li>
+<li>Macbook Air</li>
+<li>Unlimited books from Amazon</li>
+<li>Unlimited Starbucks card</li>
+<li>Membership at your favorite health club</li>
+<li>2 international trips per year for team events (2 weeks total travel)</li>
+</ul>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

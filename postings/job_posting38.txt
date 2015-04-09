@@ -1,0 +1,23 @@
+<title>Job: Senior Ruby on Rails Developer - Curated</title><div class="listing-container">
+    <div><strong>Who are Curated?</strong></div>
+<div class="paragraph_break"><br></div>
+<div>Curated helps you publish weekly digests via email and the web. We build software that helps people unleash their expertise and become leading figures in their field. Built off the back of the successful iOS Dev Weekly newsletter, Curated has distilled the process of creating compelling weekly publications. After a successful patron program and launch, we now need another Ruby developer to help us continue this growth.</div>
+<div class="paragraph_break"><br></div>
+<div>We’re privately funded and proud to be working in partnership with the folks at Litmus.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>About the role</strong></div>
+<div class="paragraph_break"><br></div>
+<div>You would be taking a senior position within the Curated development team. We’re a small team right now so there’s plenty of opportunity to shape the product and really make a difference.</div>
+<div class="paragraph_break"><br></div>
+<div>We offer a competitive salary as well as 23 days paid holiday (in addition to public holidays).</div>
+<div class="paragraph_break"><br></div>
+<div><strong>About you</strong></div>
+<div class="paragraph_break"><br></div>
+<div>You should have a strong understanding of Ruby and Rails and have successfully shipped one or more apps using it. We’re not asking for a specific number of years experience, but you should be able to impress us with your app building skills. We are interested in people who have strong product experience, people who have spent a lot of time sweating the details about what really matters to customers.</div>
+<div class="paragraph_break"><br></div>
+<div>As we are a small team, you should be comfortable tackling a wide variety of development tasks. There will be aspects of front end, back end and even deployment/hosting work with this role. Being a well rounded software developer will be advantageous. </div>
+<div class="paragraph_break"><br></div>
+<div><strong>No recruiters or outsourcing companies please.</strong></div>
+
+    
+  </div>

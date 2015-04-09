@@ -1,0 +1,33 @@
+<title>Job: Senior Full Stack Lead Developer  - Groove</title><div class="listing-container">
+    <div>
+<a href="http://www.groovehq.com">Groove</a> is looking for a very senior full-stack lead developer to help us accelerate our pursuit of building the best damn help desk software on the planet.</div>
+<div class="paragraph_break"><br></div>
+<div>You may have heard of us from our <a href="http://www.groovehq.com/blog">Journey to $500K blog</a> (in fact, we’d prefer if you have, or have at least read it before applying), or from seeing us in places like TheNextWeb, KISSmetrics, Buffer, Copyblogger, Hacker News or elsewhere around the web.</div>
+<div class="paragraph_break"><br></div>
+<div>This gig is not for the unseasoned. We need someone who’s been in the trenches and helped grow b2b SaaS companies; someone who's both a coder and a leader, who can hack with the best of them, recruit, lead a team of talented engineers and has an appreciation for good design and usability. Someone with the fire to help us execute on our product roadmap and move us along on our journey to 10MM in ARR.</div>
+<div class="paragraph_break"><br></div>
+<div>We’ve got a strong team of developers working on making our app simpler, stronger and better. We’ve put the time into talking with our customers and hitting product/market fit, and now it’s time to step on the gas.</div>
+<div class="paragraph_break"><br></div>
+<div>From the technical side, here’s what you’ll need to know: </div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Javascript (with and without jQuery)</li>
+<li>Ruby / Rails</li>
+<li>Coffeescript (up for debate)</li>
+<li>EMCA5 (and making IE place nice)</li>
+<li>CSS3 (especially animations)</li>
+<li>Git (with a team)</li>
+<li>Backbone (or similar for perspective)</li>
+<li>React (or Angular)</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>Experience working remotely is the only other requirement. You’ll be joining a completely remote team that knows how hackers work best (ideally you’d be in proximity to us in Boston or RI, but that’s definitely not a requirement). Meetings are kept to minimum and everyone is left to get things done.</div>
+<div class="paragraph_break"><br></div>
+<div>The pay for this position is very competitive ($120-$150K), and will include meaningful equity for the right candidate. </div>
+<div class="paragraph_break"><br></div>
+<div>If you’ve helped a fast-moving team win before and are ready to do it again, we want you on board. Our work impacts thousands of businesses around the globe, and we have our sights (very publicly) set on massive growth goals. If you think you can help us get there, email our CEO at <a href="mailto:alex@groovehq.com">alex@groovehq.com</a>
+</div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

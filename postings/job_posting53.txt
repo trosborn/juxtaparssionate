@@ -1,0 +1,52 @@
+<title>Job: Ruby/Rails Developer TSL215 - TeamSnap</title><div class="listing-container">
+    <div>TeamSnap is looking for an experienced Ruby/Rails developer to join our growing software development team.</div>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>About Us</strong> - TeamSnap is an award-winning mobile and web service for managing recreational and competitive sports teams and groups. With seven million enthusiastic customers in 195 countries, TeamSnap has quickly become one of the fastest-growing team and group management solutions on the planet.</div>
+<div class="paragraph_break"><br></div>
+<div>We are looking for fun people who do great work. We look for people with big ideas and tiny egos. There are no sacred cows at TeamSnap. No matter what your “job” is, you’re welcome to suggest better ways of doing anything. We’re all in this thing together and we believe that everyone has a stake in the company.</div>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>What You’ll Be Doing</strong> - Working to build out our NextJenn architecture through Ruby based services supported by RabbitMQ. You'll develop endpoints, bring our legacy data layer into 2015 while creating new services with very clear goals and limits.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Some things that are pretty important to us:</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>5+ years of software development experience</li>
+<li>Rails 4.1, Sinatra and Rack</li>
+<li>Ruby 2.1</li>
+<li>RESTful Services (you should care about HATEOS)</li>
+<li>RabbitMQ or (AMPQ equivalent)</li>
+<li>Testing experience. You should know when to write a unit test and when to rely on integration tests.</li>
+<li>Experience with Github as a version control tool.</li>
+<li>Ability to work as part of a distributed team in a self-directed way.</li>
+<li>Flexibility, teamwork, sense of humor and the willingness to do what’s necessary to help a small company grow.</li>
+<li>Other things that would be nice to have:</li>
+<li>Familiarity with the Rackspace Cloud products.</li>
+<li>Experience with Ubuntu Linux administration.</li>
+<li>Experience with Vagrant as a virtual development environment</li>
+<li>Experience with a recreational sport.</li>
+<li>Be a TeamSnap user (sign up for a free trial to see what we’re about)</li>
+</ul>
+<div><strong><br></strong></div>
+<div>
+<strong>Location</strong> - We are headquartered in Boulder, Colorado, and as a distributed company have employees all over the U.S. We are seeking U.S. based candidates only at this time.</div>
+<div class="paragraph_break"><br></div>
+<div>Light travel may be required for meetings in our intergalactic HQ in Boulder, or meeting with fellow developers in other locations.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Why TeamSnap?</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Work on a product people actually use and like!</li>
+<li>While we’re still relatively small, we’re not a fly-by-night startup. We’re an established player in a massive market.</li>
+<li>We have a proven revenue model, an experienced management team, solid funding and a strong plan moving forward.</li>
+<li>We have fantastic benefits, you're have a stake in the company and hey, what's better than working in your pajamas?</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>At TeamSnap we hire awesome people, give them the tools to achieve great things and provide strong two-way communication so everyone can grow in their roles and find passion in their work. We strive for long-term, committed employees who feel strong ownership of the company, culture and product.</div>
+<div class="paragraph_break"><br></div>
+<div>You’ll really impress us if you sign up for a free TeamSnap account, download our current app, and come at us with real ideas. If you feel up to it, show us a proof of concept of your idea integrated with our open API’s. We live and breathe our product, and we're looking for someone who will bring that same passion. We're certainly interested in your work history, but we're most interested in your understanding of our product and your vision for its future.</div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

@@ -1,0 +1,59 @@
+<title>Job: Scaling Engineer - Customer.io</title><div class="listing-container">
+    <div>Customer.io is looking for an experienced Engineer to help scale our service in order to stay ahead of our growth. You'll be joining our team of 11. We're a geo-distributed company, working across 5 different timezones.</div>
+<div> </div>
+<div>
+<em>Y</em><em>ou can be wherever you want to be.</em>
+</div>
+<div> </div>
+<div><strong>About the company:</strong></div>
+<div> </div>
+<div>
+<a href="http://customer.io/"><strong>Customer.io</strong></a> is an email marketing platform for web and mobile apps. Our customers include DigitalOcean, Travis CI, Olark, and over 580 others. </div>
+<div> </div>
+<div>We're building a distributed company. We started in NYC and moved the headquarters to Portland, Oregon. The engineering team you'll be joining is fully distributed. No two people are in the same location. </div>
+<div> </div>
+<div><strong>The role:</strong></div>
+<div> </div>
+<div>You’ll work with John, our CTO and Stephen, another Senior Scaling Engineer to scale our infrastructure 100x from where we are today. We’ve already built a service oriented architecture and it’s now time to ensure each piece is able to scale horizontally in a reliable fashion.</div>
+<div> </div>
+<div>Technologies we use in our infrastructure:</div>
+<ul><li>Foundation DB, ElasticSearch, Riak, Go, Ruby, <a href="https://github.com/customerio/fairway">Fairway</a>, MySQL.</li></ul>
+<ul><li>We use a mix of Amazon EC2 and bare-metal servers.</li></ul>
+<div>We’re currently dealing with &gt; 5 TB of event data stored in Riak and <a href="http://github.com/customerio/esdb">ESDB</a> (our custom event storage system) as well 250 GB of customer data (and growing fast). Over 580 companies are currently relying on customer.io and we want the service to become more reliable for every customer as we continue to grow.</div>
+<div> </div>
+<div>You’ll be responsible for:</div>
+<ul><li>Removing points of failure</li></ul>
+<ul><li>Scaling our existing technologies</li></ul>
+<ul><li>Replacing technologies that won’t scale</li></ul>
+<ul><li>Working on operational issues with the services</li></ul>
+<ul><li>Building systems to monitor performance and up time of our services. </li></ul>
+<div> </div>
+<div>
+<strong>You should have experience working within (and scaling) large</strong><strong>,</strong> <strong>distributed </strong><strong>systems. </strong>
+</div>
+<div> </div>
+<div><strong>Benefits</strong></div>
+<div> </div>
+<div>Work anywhere in the world you want. We'll buy you what you need to deck out your home office or give you a monthly budget for some co-working space. We want you to work where you'll be most productive.</div>
+<div> </div>
+<ul><li>
+<strong>Competitive salary. </strong>We’re offering $120,000 - $140,000 for this position in the company</li></ul>
+<ul><li>
+<strong>Equity. </strong>You'll own a piece of the company. It's not a get-rich-quick deal, but if you stay around for a while, we're planning to a long-lasting company and your piece of it will be a nice bonus. </li></ul>
+<ul><li>
+<strong>Minimum of 2 weeks vacation per year.  </strong>Take time off when you want / need it. We want you to be able to recharge your batteries so you're happy and productive at work.</li></ul>
+<ul><li>
+<strong>Company retreats</strong> 1 - 2 times per year. We've rented a cabin on a lake in Hunter Mountain, NY and spent a week in a giant house in Barcelona. </li></ul>
+<ul><li>
+<strong>Computer of your choice. </strong>We tend to use Apple Macbooks but we'll buy you whatever you're going to be most productive on. </li></ul>
+<ul><li>
+<strong>Cell phone &amp; home internet covered </strong> - It's just a little extra, but we'll cover your cell phone and home internet. No, you won't be expected to be accessible 24 hrs a day!</li></ul>
+<ul><li>
+<strong>Health coverage - </strong>We'll make sure you have health, dental and vision coverage in your country / state.</li></ul>
+<ul><li>
+<strong>Anything else we missed?</strong> If there are other benefits that would be important to you, let us know. we'd be happy to consider adding them.</li></ul>
+<div> </div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

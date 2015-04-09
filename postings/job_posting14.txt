@@ -1,0 +1,27 @@
+<title>Job: AngularJS developer - Spiffy</title><div class="listing-container">
+    <ul>
+<li>Remote work – Work from anywhere in the world at anytime </li>
+<li>25 hours per week </li>
+<li>We believe that reducing your working hours allows you to have more time for yourself and everyone around you. </li>
+<li>Great wage </li>
+<li>The Spiffy team uses innovative and constantly improving working methods </li>
+<li>We are always open to new technologies and open source </li>
+<li>Flat hierarchy - No Management - Distributed development</li>
+<li>Join a team with 8 Senior developers and growing </li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>Only apply if :</strong><br>
+</div>
+<ul>
+<li>You are a great developer</li>
+<li>Have great communication skills</li>
+<li>Can work with no management </li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>We offer a one week paid trial.</div>
+<div>This is a permanent position with regular wage increases and team  company shares.</div>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

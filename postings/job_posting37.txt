@@ -1,0 +1,81 @@
+<title>Job: Senior Backbone Developer - Strategyzer</title><div class="listing-container">
+    <div><strong>**** No recruiters or outsourcing companies please ******</strong></div>
+<div class="paragraph_break"><br></div>
+<div>We're looking for a <strong>Senior Backbone Developer</strong> with a very specific focus on front-end web programming.  If you have a <strong>mastery of JavaScript and deep experience with modern front-end frameworks such as Backbone, Ember, AngularJS, etc.</strong> this is the perfect opportunity for you!</div>
+<div class="paragraph_break"><br></div>
+<div>
+Two major applications make up the bulk of the <a href="http://Strategyzer.com">Strategyzer.com</a> platform: Learn and Build.  Learn is our custom-built online learning platform and Build is our cloud-based collaborative business model and value proposition canvas sketching tool.  We also offer online companion tools to complement our international bestseller "Value Proposition Design".  </div>
+<div class="paragraph_break"><br></div>
+<div><strong>The applications themselves are written in Ruby on Rails, but due to the highly interactive nature of the software, much of the programming complexity happens on the front end.  Our application's codebase consists of 40% Ruby, 40% CoffeeScript, and 20% Javascript. The Ruby/Rails component serves as an API feeding data upstream to Backbone client-side.<br></strong></div>
+<div class="paragraph_break">
+<br>
+</div>
+<div>Please note, we are <strong>NOT</strong> looking for an intermediate front-end developer - this is a senior position requiring deep programming knowledge and experience.  We are only considering candidates who have the following: </div>
+<div class="paragraph_break"><br></div>
+<div>
+<strong>Desired Skills and Experience
+</strong>
+</div>
+<div class="paragraph_break"><br></div>
+<div>- at <strong>least 5 years experience</strong> building and supporting web-based applications.</div>
+<div class="paragraph_break"><br></div>
+<div>
+- proven interest and ability in developing <strong>Backbone</strong> across the entire stack</div>
+<div class="paragraph_break"><br></div>
+<div>- <strong>expert knowledge of Javascript, HTML5/CSS3, git, Ruby on Rails</strong>
+</div>
+<div class="paragraph_break"><br></div>
+<div>- created object-oriented apps to high quality that are tested, easy to understand, and flexible to change using TDD/BDD</div>
+<div class="paragraph_break"><br></div>
+<div>- you understand Agile principles and practices and how they work to deliver high-quality software that matters</div>
+<div class="paragraph_break"><br></div>
+<div>- open to opportunities (but not obligations) to travel globally to retreats and events</div>
+<div class="paragraph_break"><br></div>
+<div>- excited to be a part of a passionate and energetic team! </div>
+<div class="paragraph_break"><br></div>
+<div> </div>
+<div class="paragraph_break"><br></div>
+<div><strong>We are...</strong></div>
+<div class="paragraph_break"><br></div>
+<div> </div>
+<div class="paragraph_break"><br></div>
+<div>- a profitable and fast growing company led by a small and highly successful global team. <br>
+</div>
+<div class="paragraph_break">
+<br>
+</div>
+<div>
+- creators of the <strong>Business Model and Value Proposition Canvas</strong>, tools used by thousands around the world to create and communicate business models and value propositions.<br>
+</div>
+<div class="paragraph_break">
+<br>
+</div>
+<div>
+- publishers of <strong>"Business Model Generation"</strong> which gave rise to a a new breed of visual, practical business books.  The book has sold nearly 1 million copies worldwide in 30 languages.</div>
+<div class="paragraph_break"><br></div>
+<div>- publishers of <strong>"Value Proposition Design"</strong>, a highly visual handbook for building stuff that people want.<br>
+</div>
+<div class="paragraph_break">
+<br>
+</div>
+<div>
+- We launched our first online learning course in January 2014: "Business Models That Work And Value Propositions That Sell"</div>
+<div class="paragraph_break"><br></div>
+<div> </div>
+<div class="paragraph_break"><br></div>
+<div><strong> Why work with us?</strong></div>
+<div class="paragraph_break"><br></div>
+<div> <br>
+</div>
+<div>- we hire smart, funny, and passionate people</div>
+<div class="paragraph_break"><br></div>
+<div> - all new employees are sent to one of our Business Model Masterclass workshops as part of your onboarding - past locations include: Berlin, New York, London, Bogota, Oslo, and many more!</div>
+<div> </div>
+<div>- flexible work arrangements - work out of your house from anywhere in the world.  Flexible working hours are also possible.</div>
+<div class="paragraph_break"><br></div>
+<div> - potential for travel to interesting new cities as part of team-building workshops.  So far we've visited Berlin and Tunisia as a team!</div>
+<div class="paragraph_break"><br></div>
+<div><strong><strong><strong><strong><br></strong></strong></strong></strong></div>
+
+    
+  </div>

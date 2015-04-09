@@ -1,0 +1,40 @@
+<title>Job: Front End Engineer - Hireology</title><div class="listing-container">
+    <div>We need you to help us build clean, modern, easy-to-use interfaces that will redefine how hiring managers interact with candidates and employees.</div>
+<div class="paragraph_break"><br></div>
+<div>As a Hireology Front End Engineer, you will join our user experience team to set standards, improve our user’s experience, and reinforce consistency across all devices. You will be responsible for developing, maintaining, refactoring, and optimizing the front end of our site. When paired with a UX designer, you will be tasked with understanding use cases, developing innovative prototypes, and coordinating with engineering to bring the final prototypes to our customers.</div>
+<div class="paragraph_break"><br></div>
+<div>Hireology is based in Chicago, but our Engineering and UX teams work remotely, so you’ll have the option of working from the comfort of your home or right in our office if you’re local. Compensation is very competitive, and we offer a full benefits package. We have regular company-wide events, quarterly team gatherings, and frequent celebrations when we hit our goals. </div>
+<div class="paragraph_break"><br></div>
+<div class="paragraph_break"><br></div>
+<div>The things you will do</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Work with the product and user experience team to identify new features and functionality</li>
+<li>Develop and iterate on functional prototypes to be user tested</li>
+<li>Work with engineering teams to convert prototypes to working views in the application</li>
+<li>Handle hotfixes for any front end issues that may be discovered</li>
+<li>Manage global CSS and javascript to ensure that they are clean, efficient, consistent and up-to-date</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>What you need</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Minimum two years of experience in a similar role</li>
+<li>Passion for creating great user experiences</li>
+<li>Solid understanding of HTML, CSS, and javascript</li>
+<li>Knowledge of Git (or other source control systems)</li>
+<li>Must have unrestricted work authorization to work in the United States.</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div>Bonus points for</div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>Ruby on Rails experience</li>
+<li>History with SASS (or other CSS preprocessors)</li>
+<li>Familiarity with javascript testing</li>
+<li>Experience working remotely</li>
+</ul>
+<div class="paragraph_break"><br></div>
+
+    
+  </div>

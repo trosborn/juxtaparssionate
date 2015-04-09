@@ -1,0 +1,48 @@
+<title>Job: Front-end Developer - Toptal, LLC</title><div class="listing-container">
+    <div><strong>About Toptal</strong></div>
+<div class="paragraph_break"><br></div>
+<div>Toptal is one of the most innovative and rapidly expanding tech start-ups from Silicon Valley. With backing from investors such as Andreessen Horowitz and Adam D’Angelo, our platform is the fastest growing labor marketplace in the history of the Internet—connecting thousands of elite engineers all over the world. In the last four years, Toptal has become the #1 choice for tech companies requiring top-shelf engineering talent and for the <a href="http://toptal.com/top-3-percent">top 3%</a> of freelancers looking for their next challenge.</div>
+<div class="paragraph_break"><br></div>
+<div>While we’re primarily focused on bringing quality and value to our clients, we’re also committed to creating a <a href="http://toptal.com/careers">world-class environment</a> for our employees. We are a completely distributed company with thousands of core and network team members located <a href="http://toptal.com/careers#remote-team">all over the world</a>, and we take the best elements of virtual teams and combine them with a support structure that encourages innovation, social interaction, and fun. We take an all-hands-on-deck approach to our work, taking pride in being collaborative, creative, and flexible.</div>
+<div class="paragraph_break"><br></div>
+<div>If you aren’t looking for a job because you’re already killing it, we want you.</div>
+<div class="paragraph_break"><br></div>
+<div>Position Description</div>
+<div>Providing a great web user experience is crucial to us, and we’re always looking for talented front-end web developers to help us reach the next level.</div>
+<div class="paragraph_break"><br></div>
+<div>By joining our team, you’ll get the opportunity to work on many of our projects with a team of highly skilled front-end experts from around the world. At Toptal, we push the boundaries of web interfaces every single day, and we’d love for you to help us take this even further. The bulk of the work we do is pure front-end development, but some back-end skills will help you.</div>
+<div class="paragraph_break"><br></div>
+<div>We don’t cut corners, and we don’t make compromises—we create beautifully designed web apps that are polished, fast, well-tested, and a joy to use.</div>
+<div class="paragraph_break"><br></div>
+<div>This is a remote position that can be done from anywhere; however, we do things like <a href="http://www.toptal.com/remote/the-ultimate-remote-culture">rent out hotels in Africa or mansions in Thailand</a>, and you will certainly be invited to come work with us.</div>
+<div class="paragraph_break"><br></div>
+<div><strong>Responsibilities:</strong></div>
+<div><strong><br></strong></div>
+<ul>
+<li>Translate designs into code.</li>
+<li>Design, build, and maintain efficient, reusable, and reliable front-end code.</li>
+<li>Build cross-browser solutions optimized for a wide range of devices.</li>
+<li>Identify UI problems and bugs and devise elegant solutions.</li>
+<li>Make strategic technical decisions related to new products and functionalities.</li>
+<li>Help maintain code quality.</li>
+<li>Take smart risks and champion new ideas.</li>
+<li>Onboard and mentor new team members.</li>
+</ul>
+<div class="paragraph_break"><br></div>
+<div><strong>Requirements:</strong></div>
+<div class="paragraph_break"><br></div>
+<ul>
+<li>You must have 3+ years of front-end web development experience—preference given to candidates who have experience with large applications of some scale.</li>
+<li>Proficiency in JavaScript, CSS3, and HTML5 is a must. Experience with CoffeeScript, Sass, Haml, Slim, Underscore.js, Backbone.js, React.js, and Google Closure is preferred.</li>
+<li>You must have experience with responsive designs.</li>
+<li>You must have a solid grasp of development and testing methodologies, object-oriented programming, and automated software testing.</li>
+<li>You must have experience developing within a web framework—Ruby on Rails is a plus.</li>
+<li>Be excited about deploying to production multiple times a day and collaborating daily with your team and other groups while working via a distributed model.</li>
+<li>Be comfortable with iterative and incremental development.</li>
+<li>Be willing to help your teammates, share your knowledge with them, and learn from them.</li>
+<li>Be open to receiving feedback.</li>
+<li>You must be a world-class individual contributor to thrive at Toptal. You will not be here just to tell other people what to do.</li>
+</ul>
+
+    
+  </div>
