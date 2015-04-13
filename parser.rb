@@ -8,7 +8,6 @@ class Parser
 
   def strip_tags string
     Sanitize.fragment string
-
   end
 
   def extract_words string

@@ -9,12 +9,12 @@ class TestParser < Minitest::Test
 
   def test_that_HTML_tags_are_stripped
     string = '<div> OHAI! pre-processor? No, WAY/! </div>'
-    assert_equal 'OHAI! pre-processor? No WAY/!', @parser.strip_tags(string)
+    assert_equal '  OHAI! pre-processor? No WAY/!  ', @parser.strip_tags(string)
   end
 
   def test_that_words_are_cleaned
     string = 'OHAI pre-processor No WAY/?'
-    assert_equal ['ohai', 'pre-processor', 'no', 'way'], @parser.extract_words
+    assert_equal ['ohai', 'pre-processor', 'no', 'way'], @parser.extract_words(string)
   end
 
   def test_that_words_are_counted
