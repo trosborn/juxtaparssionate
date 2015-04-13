@@ -1,20 +1,18 @@
 require 'minitest/autorun'
-require_relative '../parser'
+require_relative '../lib/parser'
 
 class TestParser < Minitest::Test
   def setup
-    @parser = Parser.new 'files/job_posting.txt'
+    @parser = Parser.new 'test/files/job_posting.txt'
     @hash = { '10x' => 1, 'ninja' => 3, 'douchenozzle' => 2 }
   end
 
   def test_that_HTML_tags_are_stripped
-    string = '<div> OHAI! pre-processor? No, WAY/! </div>'
-    assert_equal '  OHAI! pre-processor? No WAY/!  ', @parser.strip_tags(string)
+    assert_equal 'ninja 10x wanted for ninja douchenozzle team', @parser.strip_tags
   end
 
   def test_that_words_are_cleaned
-    string = 'OHAI pre-processor No WAY/?'
-    assert_equal ['ohai', 'pre-processor', 'no', 'way'], @parser.extract_words(string)
+    assert_equal ["div", "ul", "li", "p", "ninja", "em", "10x", "em", "wanted", "for", "ninja", "douchenozzle", "team", "p", "li", "ul", "div"], @parser.extract_words
   end
 
   def test_that_words_are_counted
