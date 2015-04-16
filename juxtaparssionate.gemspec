@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.summary     = 'A tool for parsing and comparing job postings'
   s.description = 'juxtaparssionate parses and compares job postings from various popular job boards. By comparing word frequency, sentence length, and parts-of-speech counts, juxtaparssionate produces metrics loosely determining the quality and uniqueness of a job posting'
   s.authors     = 'Thomas Osborn'
-  s.email       = 'nick@quaran.to'
+  s.email       = 'trosborn@gmail.com'
   s.files       = Dir['lib/*'] + Dir['test/**/*'] + 'README.md'
   s.homepage    = 'http://www.github.com/trosborn/passion-parse'
   s.license     = 'MIT'

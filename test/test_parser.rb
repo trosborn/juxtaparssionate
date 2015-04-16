@@ -11,8 +11,8 @@ class TestParser < Minitest::Test
     assert_equal 'ninja 10x wanted for ninja douchenozzle team', @parser.strip_tags
   end
 
-  def test_that_words_are_cleaned
-    assert_equal ["div", "ul", "li", "p", "ninja", "em", "10x", "em", "wanted", "for", "ninja", "douchenozzle", "team", "p", "li", "ul", "div"], @parser.extract_words
+  def test_that_words_are_extracted
+    assert_equal ["ninja", "10x", "wanted", "for", "ninja", "douchenozzle", "team"], @parser.extract_words
   end
 
   def test_that_words_are_counted
@@ -23,6 +23,10 @@ class TestParser < Minitest::Test
   def test_that_the_hash_is_ordered
     array = [['10x', 1], ['douchenozzle', 2], ['ninja', 3]]
     assert_equal array, @parser.order_hash(@hash)
+  end
+
+  def test_that_nouns_are_extracted
+    assert_equal ["team"], @parser.extract_nouns
   end
 end
 

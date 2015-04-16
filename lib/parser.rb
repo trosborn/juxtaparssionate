@@ -1,15 +1,13 @@
 require 'sanitize'
+require 'treat'
+
+include Treat::Core::DSL
 
 class Parser
   attr_accessor :contents
 
   def initialize file_path
-    open_file file_path
-  end
-
-  def open_file posting
-    file = File.open posting
-    @contents = file.read
+    @contents = document "#{file_path}"
   end
 
   def strip_tags
@@ -17,8 +15,22 @@ class Parser
     stripped.split.join(' ')
   end
 
+  def extract_nouns
+    ary = []
+    words = @contents.apply(:chunk, :segment, :tokenize, :category)
+    words.nouns.each do |w|
+      ary << w.to_s
+    end
+    ary
+  end
+
   def extract_words
-    @contents.gsub(/[<>!'";,.?\/]/, ' ').downcase.split
+    ary = []
+    chunked = strip_tags.apply(:chunk, :segment, :tokenize)
+    chunked.each do |w|
+      ary << w.to_s
+    end
+    ary
   end
 
   def count_words array
