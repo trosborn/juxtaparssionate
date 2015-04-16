@@ -16,21 +16,13 @@ class Parser
   end
 
   def extract_nouns
-    ary = []
     words = @contents.apply(:chunk, :segment, :tokenize, :category)
-    words.nouns.each do |w|
-      ary << w.to_s
-    end
-    ary
+    words.nouns.map { |w| w.to_s }
   end
 
   def extract_words
-    ary = []
     chunked = strip_tags.apply(:chunk, :segment, :tokenize)
-    chunked.each do |w|
-      ary << w.to_s
-    end
-    ary
+    chunked.map { |w| w.to_s }
   end
 
   def count_words array
