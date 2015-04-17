@@ -8,5 +8,6 @@ gem 'nokogiri'
 gem 'mechanize'
 gem 'sanitize'
 gem 'birch', :git => 'https://github.com/faustoct/birch'
+gem 'rake'
 
 gem 'minitest', :group => :test
