@@ -9,5 +9,6 @@ gem 'mechanize'
 gem 'sanitize'
 gem 'birch', :git => 'https://github.com/faustoct/birch'
 gem 'rake'
+gem 'scalpel'
 
 gem 'minitest', :group => :test

@@ -59,6 +59,7 @@ GEM
       crass (~> 1.0.1)
       nokogiri (>= 1.4.4)
       nokogumbo (= 1.2.0)
+    scalpel (0.2.1)
     schiphol (1.0.1)
       progressbar (>= 0.10.0)
       rubyzip (~> 0.9.9)
@@ -82,4 +83,5 @@ DEPENDENCIES
   rake
   rwordnet (>= 1.0)
   sanitize
+  scalpel
   treat!
