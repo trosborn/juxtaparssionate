@@ -4,6 +4,15 @@ GIT
   specs:
     birch (0.0.9)
 
+GIT
+  remote: https://github.com/louismullie/treat
+  revision: 3dc184277d306c27d0d20b34832f31ae93a1e028
+  specs:
+    treat (2.1.0)
+      birch
+      schiphol
+      yomu
+
 PATH
   remote: .
   specs:
@@ -52,10 +61,6 @@ GEM
     schiphol (1.0.1)
       progressbar (>= 0.10.0)
       rubyzip (~> 0.9.9)
-    treat (2.1.1)
-      birch
-      schiphol
-      yomu
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.6)
@@ -75,4 +80,4 @@ DEPENDENCIES
   nokogiri
   rwordnet (>= 1.0)
   sanitize
-  treat
+  treat!

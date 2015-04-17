@@ -1,8 +1,8 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
 gemspec
 
-gem 'treat'
+gem 'treat', :git => 'https://github.com/louismullie/treat'
 gem 'rwordnet', '>= 1.0'
 gem 'nokogiri'
 gem 'mechanize'
