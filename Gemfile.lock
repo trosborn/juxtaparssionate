@@ -1,0 +1,72 @@
+PATH
+  remote: .
+  specs:
+    juxtaparssionate (0.0.0)
+      mechanize
+      nokogiri
+      rwordnet
+      sanitize
+      treat
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    birch (0.0.9)
+    crass (1.0.1)
+    domain_name (0.5.24)
+      unf (>= 0.0.5, < 1.0.0)
+    http-cookie (1.0.2)
+      domain_name (~> 0.5)
+    json (1.8.2)
+    mechanize (2.7.2)
+      domain_name (~> 0.5, >= 0.5.1)
+      http-cookie (~> 1.0.0)
+      mime-types (~> 1.17, >= 1.17.2)
+      net-http-digest_auth (~> 1.1, >= 1.1.1)
+      net-http-persistent (~> 2.5, >= 2.5.2)
+      nokogiri (~> 1.4)
+      ntlm-http (~> 0.1, >= 0.1.1)
+      webrobots (>= 0.0.9, < 0.2)
+    mime-types (1.25.1)
+    mini_portile (0.6.2)
+    minitest (5.6.0)
+    net-http-digest_auth (1.4)
+    net-http-persistent (2.9.4)
+    nokogiri (1.6.6.2)
+      mini_portile (~> 0.6.0)
+    nokogumbo (1.2.0)
+      nokogiri
+    ntlm-http (0.1.1)
+    progressbar (0.21.0)
+    rubyzip (0.9.9)
+    rwordnet (1.0.0)
+    sanitize (3.1.2)
+      crass (~> 1.0.1)
+      nokogiri (>= 1.4.4)
+      nokogumbo (= 1.2.0)
+    schiphol (1.0.1)
+      progressbar (>= 0.10.0)
+      rubyzip (~> 0.9.9)
+    treat (2.1.1)
+      birch
+      schiphol
+      yomu
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.6)
+    webrobots (0.1.1)
+    yomu (0.2.2)
+      json (~> 1.8)
+      mime-types (~> 1.23)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  juxtaparssionate!
+  mechanize
+  minitest
+  nokogiri
+  rwordnet (>= 1.0)
+  sanitize
+  treat
