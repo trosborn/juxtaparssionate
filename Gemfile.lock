@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/faustoct/birch
+  revision: 079d0de5558e70c6f7f3cd16718e7c1b5f26cc9e
+  specs:
+    birch (0.0.9)
+
 PATH
   remote: .
   specs:
@@ -11,7 +17,6 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    birch (0.0.9)
     crass (1.0.1)
     domain_name (0.5.24)
       unf (>= 0.0.5, < 1.0.0)
@@ -63,6 +68,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  birch!
   juxtaparssionate!
   mechanize
   minitest
