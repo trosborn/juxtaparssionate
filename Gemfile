@@ -10,5 +10,6 @@ gem 'sanitize'
 gem 'birch', :git => 'https://github.com/faustoct/birch'
 gem 'rake'
 gem 'scalpel'
+gem 'engtagger'
 
 gem 'minitest', :group => :test
