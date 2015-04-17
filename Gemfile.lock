@@ -29,6 +29,7 @@ GEM
     crass (1.0.1)
     domain_name (0.5.24)
       unf (>= 0.0.5, < 1.0.0)
+    engtagger (0.2.0)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
     json (1.8.2)
@@ -76,6 +77,7 @@ PLATFORMS
 
 DEPENDENCIES
   birch!
+  engtagger
   juxtaparssionate!
   mechanize
   minitest
