@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = 'Thomas Osborn'
   s.email       = 'trosborn@gmail.com'
   s.files       = Dir['lib/*'] + Dir['test/**/*'] + ['README.rdoc']
-  s.homepage    = 'http://www.github.com/trosborn/passion-parse'
+  s.homepage    = 'http://www.github.com/trosborn/juxtaparssionate'
   s.license     = 'MIT'
 
   s.add_runtime_dependency 'treat'
