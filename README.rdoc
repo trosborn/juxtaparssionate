@@ -2,4 +2,4 @@
 
 {<img src="https://travis-ci.org/trosborn/passion-parse.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/trosborn/passion-parse]
 
-juxtaparssionate passionately parses postings and juxtaposes the results
+juxtaparssionate parses postings and juxtaposes the results
