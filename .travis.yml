@@ -3,5 +3,3 @@ rvm:
 - 2.2.2
 deploy:
   provider: rubygems
-  api_key:
-    secure: A5zLyhdYscm5bad89+GxYBAoxORLKVyxEORkg9kDi3KvH4Abc0A+DpyOLTvS39Ww0xU7K6RUwZHUKokjvxxLeorbKxdbe+7EUMlcGc1ulDz5qjgh1+k4PQJJU2BcEO4939dDC1xJNyMmJjtRC+fMm5WeLl4NKT6HUFK586s/Rak=
