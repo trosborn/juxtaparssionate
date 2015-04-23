@@ -1,5 +1,7 @@
 == README
 
-{<img src="https://travis-ci.org/trosborn/passion-parse.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/trosborn/passion-parse]
+{<img src="https://travis-ci.org/trosborn/juxtaparssionate.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/trosborn/juxtaparssionate]
 
-juxtaparssionate parses postings and juxtaposes the results
+This gem is in an extreme alpha status. At this point all it can do is scrape We Work Remotely and find the most common words and number of nouns in postings.
+
+Installing this gem and its dependencies is a rather involved process, and subject to change. Install at your own risk.
