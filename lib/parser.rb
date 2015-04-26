@@ -11,8 +11,12 @@ class Parser
   end
 
   def strip_tags
-    stripped = Sanitize.fragment @contents
-    stripped.split.join(' ')
+    @contents = Sanitize.fragment @contents
+    remove_spaces
+  end
+
+  def remove_spaces
+    @contents.split.join(' ')
   end
 
   def extract_nouns
