@@ -14,7 +14,7 @@ class Parser
   end
 
   def extract_words
-    @contents.to_s.split(/\W+/)
+    @contents.words.map { |n| n.to_s }
   end
 
   def count_words array
