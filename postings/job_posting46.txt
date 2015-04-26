@@ -1,10 +1,1 @@
-<title>Job: Frontend Developer - WNDR</title><div class="listing-container">
-    <div>We are currently looking for an ambitious and talented frontend developer who can be a part of creating great products and sites for both clients and in-house projects. You’re excited about new technology and have already spent a great deal of time working with technologies like Angular, Node.js etc.</div>
-<div class="paragraph_break"><br></div>
-<div>As a frontend developer we expect you to be more than proficient with tools like Sass, jQuery, HTML and vanilla javascript. Being that we are mostly a PHP focused company we need a candidate who has a great deal of interrest in working with PHP solutions. We prefer Laravel, but if you’ve worked with Cake, Yii or similar don’t let that stop you from applying. WordPress is also a big part in the projects that we deliver, so any experience in working with WordPress is a huge plus.</div>
-<div class="paragraph_break"><br></div>
-<div>We’re a small but flexible company, and our projects will be greatly influenced by your knowledge and input. We can offer both full-time and part-time. Remote work is expected, and your workday should be able to overlap with at least 4 hours between 9am and 5pm CET +1.</div>
-<div class="paragraph_break"><br></div>
-
-    
-  </div>
+Job: Technical Architect: Salesforce - Mavens Consulting, Inc. | Mavens Technical Architects go beyond the code. Sure, we’re experts in Cloud technologies, write Apex, Lightning, Visualforce, JavaScript, and Ruby on Rails, and build solutions that scale, but we are consultants first. We share our vision with our clients. If you’re looking for a job that has you at your desk 8 hours a day coding heads down, look elsewhere. If you’re looking to join an employee-first company that gives you the opportunity to learn and develop new skills and become a true craftsman in the world of cloud applications, let’s talk. Our architects lead colleagues, customers, and partners to build elegant technical solutions for Life Sciences customers. Desired Skills Leadership\n Creativity &amp; Critical Thinking\n Object-Oriented Programming\n Apex/Lightning/JavaScript/Ruby on Rails\n HTML5/CSS/JavaScript\n Heroku/AWS\n CRM/SaaS Experience (preferably salesforce.com)\n Location: Chicago, San Francisco, Boston, London, Remote
