@@ -15,6 +15,10 @@ class TestParser < Minitest::Test
     @nouns = ["Job", "Senior", "Ruby+Fullstack", "Engineer", "Spree", "Commerce",
       "Spree", "Commerce", "mission", "world", "sellers", "cutting-edge", "solutions",
       "stability", "flexibility", "peace", "mind"]
+    @word_order = [["Job", 1], ["Senior", 1], ["Engineer", 1], ["mind", 1], ["of", 1], ["At", 1],
+    ["we", 1], ["on", 1], ["a", 1], ["mission", 1], ["to", 1], ["empower", 1], ["the", 1], ["peace", 1],
+    ["sellers", 1], ["through", 1], ["cutting-edge", 1], ["solutions", 1], ["that", 1], ["deliver", 1],
+    ["stability", 1], ["flexibility", 1], ["and", 1], ["world", 1], ["Commerce", 2], ["Spree", 2]]
   end
 
   def test_that_words_are_extracted
@@ -26,7 +30,7 @@ class TestParser < Minitest::Test
   end
 
   def test_that_the_hash_is_ordered
-    assert_equal @word_count, @parser.order_hash(@parser.count_words(@parser.extract_words))
+    assert_equal @word_order, @parser.order_hash(@parser.count_words(@parser.extract_words))
   end
 
   def test_that_nouns_are_extracted
