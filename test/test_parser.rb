@@ -29,10 +29,6 @@ class TestParser < Minitest::Test
     assert_equal @word_count, @parser.count_words(@parser.extract_words)
   end
 
-  def test_that_the_hash_is_ordered
-    assert_equal @word_order, @parser.order_hash(@parser.count_words(@parser.extract_words))
-  end
-
   def test_that_nouns_are_extracted
     assert_equal @nouns, @parser.extract_nouns
   end
