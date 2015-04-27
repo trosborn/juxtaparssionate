@@ -7,7 +7,11 @@ class Parser
 
   def initialize file_path
     @contents = document("#{file_path}").apply :chunk, :segment, :tokenize, :category
-    @post_attributes = { :num_nouns => 0, :popular_words => []}
+    @post_attributes = { :num_nouns => 0, :popular_words => [] }
+  end
+
+  def noun_percent
+    (@contents.noun_count.to_f / @contents.word_count).round(2)
   end
 
   def extract_nouns

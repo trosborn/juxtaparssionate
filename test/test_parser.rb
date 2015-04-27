@@ -29,8 +29,9 @@ class TestParser < Minitest::Test
     assert_equal nouns, @parser.extract_nouns
   end
 
-  def test_that_ratio_of_nouns_to_not_nouns_is_calculated
-
+  def test_that_the_noun_percent_is_calculated
+    noun_percent = 0.61
+    assert_equal noun_percent, @parser.noun_percent
   end
 end
 
