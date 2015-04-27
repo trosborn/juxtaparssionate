@@ -7,7 +7,7 @@ class Parser
 
   def initialize file_path
     @contents = document("#{file_path}").apply :chunk, :segment, :tokenize, :category
-    @post_attributes = { :nouns => 0, :num_words => 0, :popular_words => 0}
+    @post_attributes = { :num_nouns => 0, :popular_words => []}
   end
 
   def extract_nouns
@@ -15,7 +15,7 @@ class Parser
   end
 
   def extract_words
-    @post_attributes[] = @contents.words.map { |n| n.to_s }
+    @contents.words.map { |n| n.to_s }
   end
 
   def count_words array
