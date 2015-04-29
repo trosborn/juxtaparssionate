@@ -2,7 +2,7 @@ require 'parser'
 
 class Compare
 
-  def initialize post, posting_folder
+  def initialize post, post_folder
 
   end
 

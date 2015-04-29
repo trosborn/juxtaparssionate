@@ -4,14 +4,15 @@ include Treat::Core::DSL
 
 class Parser
   attr_accessor :contents
+  attr_accessor :post_attributes
 
   def initialize file_path
     @contents = document("#{file_path}").apply :chunk, :segment, :tokenize, :category
-    @post_attributes = { :num_nouns => 0, :popular_words => [] }
+    @post_attributes = { :noun_percent => 0, :word_popularity => {} }
   end
 
   def noun_percent
-    (@contents.noun_count.to_f / @contents.word_count).round(2)
+    @post_attributes[:noun_percent] = (@contents.noun_count.to_f / @contents.word_count).round(2)
   end
 
   def extract_nouns
@@ -23,15 +24,14 @@ class Parser
   end
 
   def count_words array
-    word_count = {}
     array.each do |word|
-      if word_count[word] != nil
-        word_count[word] += 1
+      if @post_attributes.word_popularity[word] != nil
+        @post_attributes.word_popularity[word] += 1
       else
-        word_count[word] = 1
+        @post_attributes.word_popularity[word] = 1
       end
     end
-    word_count
+    @post_attributes.word_popularity
   end
 
   def order_hash hash
