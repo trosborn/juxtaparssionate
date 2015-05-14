@@ -11,5 +11,6 @@ gem 'birch', :git => 'https://github.com/faustoct/birch'
 gem 'rake'
 gem 'scalpel'
 gem 'engtagger'
+gem 'sqlite3'
 
 gem 'minitest', :group => :test
