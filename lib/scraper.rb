@@ -17,7 +17,7 @@ class Scraper
       section << doc.css('div.listing-container').to_s
       section.gsub! /<\/li>/, '\n'
       stripped = strip_tags section
-      SQLite3.save stripped
+      Model::SQLite3.save stripped
     end
   end
 
