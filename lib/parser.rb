@@ -3,8 +3,7 @@ require 'treat'
 include Treat::Core::DSL
 
 class Parser
-  attr_accessor :contents
-  attr_accessor :post_attributes
+  attr_accessor :contents, :post_attributes
 
   def initialize file_path
     @contents = document("#{file_path}").apply :chunk, :segment, :tokenize, :category

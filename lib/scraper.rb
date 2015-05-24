@@ -10,6 +10,8 @@ class Scraper
     page = agent.get('https://weworkremotely.com/categories/2/jobs')
     page.links_with( :href => %r{/jobs/} ).each do |link|
       next if link.href == 'https://weworkremotely.com/jobs/new'
+      return if link.href.to_i >= Model::Sqlite3.most_Recent
+      Model::Sqlite3.job_number link.href.to_i
       page = link.click
       doc = page.parser
       section = doc.css('title').to_s
