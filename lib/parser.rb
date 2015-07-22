@@ -15,11 +15,11 @@ class Parser
   end
 
   def extract_nouns
-    @contents.nouns.map { |w| w.to_s }
+    @contents.nouns.map { |n| n.to_s }
   end
 
   def extract_words
-    @contents.words.map { |n| n.to_s }
+    @contents.words.map { |w| w.to_s }
   end
 
   def count_words array
